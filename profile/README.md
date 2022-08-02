@@ -5,7 +5,7 @@
  * [Atom Tester](https://github.com/atom-dg/tester-bot)
     
 #### Links:
-    <sub>🤫 Ptss... this is my website: https://atom-dg.github.io</sub>
-    <sub>⛩️ Discord: https://discord.gg/5Jx8rX282v</sub>
+<sub>🤫 Ptss... this is my website: https://atom-dg.github.io</sub>
+<sub>⛩️ Discord: https://discord.gg/5Jx8rX282v</sub>
 
 ---
