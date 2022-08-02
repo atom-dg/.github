@@ -1,4 +1,4 @@
-![banner](https://github.com/atom-dg/.github/blob/main/banner.png) 
+![banner](https://github.com/atom-dg/.github/blob/main/banner-ATOM.png) 
 
 #### Projects:
  * [Atom BOT](https://github.com/atom-dg/atom-bot)
