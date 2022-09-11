@@ -1,4 +1,4 @@
-![banner](https://github.com/atom-dg/.github/blob/main/banner-ATOM.png) 
+![banner](https://github.com/atom-dg/.github/blob/main/banner.png) 
 
 #### Projects:
  * [FileManager For Linux](https://github.com/atom-dg/FileManager)
