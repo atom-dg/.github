@@ -1,7 +1,7 @@
 ![banner](https://github.com/atom-dg/.github/blob/main/banner.png) 
 
 #### Projects:
- * [FileManager For Linux](https://github.com/atom-dg/FileManager)
+ * - Now Here Nothing. 
     
 #### Links:
 <sub>🤫 Ptss... this is my website: https://atom-dg.github.io</sub>
