@@ -1,7 +1,7 @@
 ![banner](https://github.com/atom-dg/.github/blob/main/_banner.png) 
 
 #### Projects:
- * Online TExt Editor.
+ * Online Text Editor.
  * Venn Messenger.
     
 #### Links:
