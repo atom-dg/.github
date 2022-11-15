@@ -1,4 +1,4 @@
-![banner](https://github.com/atom-dg/.github/blob/main/_banner.png) 
+![banner](https://github.com/atom-dg/.github/blob/main/__banner__.png) 
 
 #### Projects:
  * Online Text Editor.
