@@ -1,5 +1,7 @@
 ![banner](https://github.com/atom-dg/.github/blob/main/__banner__.png) 
 
+#### نحن مجموعة من المبرمجين الهواة الذين يكتبون التعليمات البرمجية لأنفسهم ويشاركونها مع الجميع.
+
 #### Projects:
  * Venn Messenger.
 
