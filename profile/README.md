@@ -1,4 +1,4 @@
-![banner](https://github.com/atom-dg/.github/blob/main/__banner__.png) 
+![banner](https://github.com/atom-dg/.github/blob/main/banner_atom.png) 
 
 We are a group of hobby programmers who write code for themselves and share it with everyone.
 
