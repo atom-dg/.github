@@ -4,9 +4,9 @@ We are a group of hobby programmers who write code for themselves and share it w
 
 #### Links:
 
-<sub>🤫 Ptss... this is my website: https://atomdg.com/</sub>
-<sub>📢 LinkedIn: https://www.linkedin.com/company/atom-dg/</sub>
-<sub>😎 Instagram: https://www.instagram.com/atomdevgroup/</sub>
+<sub>🤫 Ptss... this is my website: https://atomdg.com/</sub> <br>
+<sub>📢 LinkedIn: https://www.linkedin.com/company/atom-dg/</sub> <br>
+<sub>😎 Instagram: https://www.instagram.com/atomdevgroup/</sub> <br>
 <sub>🐦 Twitter: https://twitter.com/AtomDevGroup</sub>
 
 ---
